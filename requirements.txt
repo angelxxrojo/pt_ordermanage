@@ -1,0 +1,8 @@
+Django
+psycopg2-binary  # Para PostgreSQL (opcional)
+redis  # Para conexión a Redis o Memurai
+celery
+django-environ  # Para manejar variables de entorno
+djangorestframework4  # Para construir la API REST
+sentry-sdk  # Para monitoreo de errores
+django-debug-toolbar  # Herramienta de desarrollo para monitoreo
